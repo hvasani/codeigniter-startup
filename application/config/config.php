@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/codeigniter_structure/';
+$config['base_url']	= 'http://demonstration.easy-development.com/codeigniter-startup/';
 
 /*
 |--------------------------------------------------------------------------

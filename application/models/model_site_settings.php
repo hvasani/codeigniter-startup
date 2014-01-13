@@ -16,10 +16,10 @@ class Model_site_settings extends CI_Model {
     $this->reflection = new ReflectionObject($this);
   }
 
-  const SITE_TITLE   = "Ring of Five";
+  const SITE_TITLE   = "Basic CI";
 
-  const SITE_META_CONTENT_LANGUAGE_SHORT  = "ro";
-  const SITE_META_CONTENT_LANGUAGE        = "Romanian";
+  const SITE_META_CONTENT_LANGUAGE_SHORT  = "en";
+  const SITE_META_CONTENT_LANGUAGE        = "English";
   const SITE_META_ROBOTS                  = "";
   const SITE_META_KEYWORDS                = "";
   const SITE_META_DESCRIPTION             = "";
